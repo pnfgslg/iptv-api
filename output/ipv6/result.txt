@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-04 06:57:36,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-04 18:59:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1216,6 +1216,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 南通新闻综合,https://migu.188766.xyz/?migutoken=7d8b98e115e0bd1fcf304b577a940dfd&id=%E5%8D%97%E9%80%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 宜兴新闻,https://stream1.freetv.fun/yi-xing-xin-wen-1.m3u8
 宜兴新闻,https://stream1.freetv.fun/yi-xing-xin-wen-2.m3u8
+宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
 宿迁公共,http://iptv.666230.xyz/iptv/jsyd.php/G_SQGG
 常州公共,http://iptv.666230.xyz/iptv/jsyd.php/jsczgonggong
 常州生活,http://iptv.666230.xyz/iptv/jsyd.php/jsczshenghuo
@@ -1536,6 +1537,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 南宁影视娱乐,https://stream1.freetv.fun/nan-zhu-ying-shi-yu-le-1.m3u8
 南宁影视娱乐,https://stream1.freetv.fun/nan-zhu-ying-shi-yu-le-3.m3u8
 南宁影视娱乐,https://stream1.freetv.fun/nan-zhu-ying-shi-yu-le-4.m3u8
+南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le-3.m3u8
+南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le.m3u8
 
 ☘️天津频道,#genre#
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
@@ -1589,7 +1592,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
@@ -1718,6 +1720,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南新闻,https://migu.188766.xyz/?migutoken=4483ff36224660c8918751353c56ddfe&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=f930f5b597f88f2754e913f48ab02cbc&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=8e6a342bb8483ea44fe6c66f231a4a68&id=hn_xwpd&type=sz
+海南新闻,https://migu.188766.xyz/?migutoken=1cf2d93eacb3e2629d89a02b5f754dd1&id=hn_xwpd&type=sz
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=2c5a14db969e47237955069534d8771a&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=2647374cee9e17209444b036efcd0745&id=hn_jjpd&type=sz
@@ -1725,6 +1728,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=1ab79dfd3ccf14b16afc3162a5c4e543&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=3707b3a5c9718e682c3392b8520d30ae&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=f7008989aba9a5db07961eee96989c0d&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=1f790d932c12ac20f2e124e645ef95b9&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1734,6 +1738,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南文旅,https://migu.188766.xyz/?migutoken=f363738cc10ee84f01b748cc72bd6769&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=dc6930d61c7558d0d5e3b182d591bef0&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=1eee401b1dd306eca5f601fa4413482b&id=hn_wlpd&type=sz
+海南文旅,https://migu.188766.xyz/?migutoken=fa914e1831c322c15c4535b05b8d5898&id=hn_wlpd&type=sz
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=131d6f1f1aee51a928ea2dfc9e43e0b1&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=941a5ba2383dfd16605dda2940bcb48c&id=hn_sepd&type=sz
@@ -1741,6 +1746,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=e232ce8913e6b21ad434504029a9f734&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=2253a2a766033fadba91ae4c3245d5e8&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=8cf905b2f69e98adcae0d11675dca63e&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=7483f1cc9021de30361929df803a9d96&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -1750,6 +1756,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南公共,https://migu.188766.xyz/?migutoken=8512c48561503bec9a5efb613712a105&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=a70b4043f07d64394febbef4a82c526d&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=35267c173feff7a4f6cd7e7e0869addc&id=hn_ggpd&type=sz
+海南公共,https://migu.188766.xyz/?migutoken=7bdf1ddc0cf3548813b8e3dc37dc785a&id=hn_ggpd&type=sz
 
 ☘️河南频道,#genre#
 梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
@@ -1814,6 +1821,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
 郸城新闻综合,https://stream1.freetv.fun/dan-cheng-xin-wen-zong-he-4.m3u8
+郸城新闻综合,https://t.freetv.fun/live/dan-cheng-xin-wen-zong-he.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8#@http://live.dxhmt.cn:9081/tv/11681-1.m3u8#@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
